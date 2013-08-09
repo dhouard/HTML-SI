@@ -1,0 +1,30 @@
+root { 
+    display: block;
+}
+
+.container {
+    width: 960px;
+}
+
+.logo {
+    height: 100px;
+}
+
+.about {
+    border: 1px dotted gray;
+    height: 100px;
+}
+
+#canvas {
+    border: 1px solid gray;
+    background: black;
+}
+
+.sprite {
+    display: none;
+}
+
+#nave {
+    width: 40px;
+    height: 27px;
+}
